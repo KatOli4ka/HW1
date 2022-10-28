@@ -48,6 +48,8 @@ public class Main {
 
         var totalHours=640;
         System.out.println(totalHours);
+        var workTime1Stuff=8;
+        System.out.println(workTime1Stuff);
 
 
 
