@@ -52,6 +52,8 @@ public class Main {
         System.out.println(workTime1Stuff);
         var totalStuff=totalHours/workTime1Stuff;
         System.out.println("Всего работников в компании - " + totalStuff + " человек");
+        var totalStuff2=totalStuff+94;
+        System.out.println(totalStuff2);
 
 
 
