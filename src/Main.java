@@ -46,6 +46,10 @@ public class Main {
         System.out.println("Разница в весе бойцов " + weightDifference2 +" кг");
 
 
+        var totalHours=640;
+        System.out.println(totalHours);
+
+
 
 
     }
