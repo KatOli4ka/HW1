@@ -36,6 +36,8 @@ public class Main {
 
         var weightBoxer1=78.2;
         System.out.println(weightBoxer1);
+        var weightBoxer2=82.7;
+        System.out.println(weightBoxer2);
 
 
 
